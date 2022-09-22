@@ -23,7 +23,7 @@ export default function Background() {
             </div>
             <div >
                 <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} 
-                src="./instacart-logo.png" alt="Card image"/>
+                src="https://www.instacart.com/image-server/768x/www.instacart.com/assets/homepage/homepage-mobile-background-m3-high-res-ca3279087ea0a3337f671b694b196d43fd207443d5825e61295b0996974835e9.jpg" alt="Card image"/>
             </div>
             
     </div>
